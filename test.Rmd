@@ -2,7 +2,7 @@
 title: "ttt"
 author: "De Stroy"
 date: "6/16/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
